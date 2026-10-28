@@ -2,7 +2,7 @@
 
 🎓 **Computer Science Student at UFCG | Python & Java**
 
-I turn ideas into clean, tested code. I like understanding how things work under the hood, and I use GitHub to build, break, fix and improve my projects.
+I'm just starting my journey in software development. I like understanding how things work under the hood, and I use GitHub to build, break, fix and improve my projects.
 
 ---
 
