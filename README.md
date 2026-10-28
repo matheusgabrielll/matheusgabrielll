@@ -2,7 +2,7 @@
 
 🎓 **Computer Science Student at UFCG | Python & Java**
 
-I'm just starting my journey in software development. I like learning by building small projects, and I use GitHub to practice, organize my code and keep track of my progress.
+I turn ideas into clean, tested code. I like understanding how things work under the hood, and I use GitHub to build, break, fix and improve my projects.
 
 ---
 
@@ -19,13 +19,13 @@ I'm just starting my journey in software development. I like learning by buildin
 
 ---
 
-## 🧠 What I'm learning
+## 🧠 What I focus on
 
-- 🧩 Object-oriented programming
-- 🧪 Unit testing
-- 📐 Class diagrams (UML)
-- 🌱 Writing clean and readable code
-- 🔁 Version control with Git and GitHub
+- ☕ Designing Java systems, from the UML model to working code
+- 🧪 Writing unit tests with JUnit 5 to catch bugs before they spread
+- 🧹 Clean, readable code that is easy to maintain
+- 🐍 Python for scripts and problem solving
+- 🔁 Git and GitHub workflow
 
 ---
 
@@ -37,14 +37,6 @@ I'm just starting my journey in software development. I like learning by buildin
 ![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-## 📂 Projects
-
-**[FilmNow](https://github.com/matheusgabrielll/laborat-rio-3)** — a text-based movie list manager written in Java.
-You can add movies, see their details, keep a "hot list" of what to watch next and set the places where each movie can be watched.
-It includes unit tests with JUnit 5 and a UML class diagram.
 
 ---
 
