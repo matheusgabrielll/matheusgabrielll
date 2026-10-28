@@ -12,6 +12,9 @@ I'm just starting my journey in software development. I like understanding how t
   <a href="https://github.com/matheusgabrielll">
     <img src="https://img.shields.io/badge/GitHub-matheusgabrielll-181717?style=for-the-badge&logo=github" />
   </a>
+  <a href="https://www.linkedin.com/in/matheus-gabriel-071042417">
+    <img src="https://img.shields.io/badge/LinkedIn-Matheus%20Gabriel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
   <a href="https://instagram.com/matheus_g84">
     <img src="https://img.shields.io/badge/Instagram-@matheus__g84-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
